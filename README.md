@@ -4,7 +4,7 @@
 
 ### Project Overview
 
-This project involves the development of a predictive model to identify fraudulent transactions in credit card data.The main aim is to minimize the instances where customers are falsely charged for items they didn't purchase. We use both traditional Machine Learning techniques.
+This project involves the development of a predictive model to identify fraudulent transactions in credit card data.The main aim is to minimize the instances where customers are falsely charged for items they didn't purchase. We use traditional Machine Learning techniques.
 
 ### Dataset Description 
 The dataset contains credit card transactions made by European cardholders in September 2013. The dataset is highly unbalanced with only 0.172% (492 out of 284,807) of the transactions being fraudulent. The features in the dataset are mostly numerical and are results of a PCA transformation due to confidentiality requirements, with features V1 to V28 representing the principal components. The exceptions to this are 'Time' and 'Amount' which represent the seconds elapsed between each transaction and the first transaction in the dataset, and the transaction amount respectively. The response variable 'Class' is binary, with '1' indicating a fraudulent transaction and '0' otherwise.
