@@ -1,10 +1,10 @@
-# Credit Card Fraud Detection using Machine Learning and AutoML Techniques
+# Credit Card Fraud Detection using Machine Learning Techniques
 
 ![image](https://github.com/Christiansada/Credit-Card-Fraud-Detection/assets/95037926/a2e61d4d-78c9-4dea-87d6-b1ffbf974884)
 
 ### Project Overview
 
-This project involves the development of a predictive model to identify fraudulent transactions in credit card data.The main aim is to minimize the instances where customers are falsely charged for items they didn't purchase. We use both traditional Machine Learning techniques and Automated Machine Learning (AutoML) using PyCaret for this project. We also emphasize the use of Anomaly Detection to identify instances of fraud.
+This project involves the development of a predictive model to identify fraudulent transactions in credit card data.The main aim is to minimize the instances where customers are falsely charged for items they didn't purchase. We use both traditional Machine Learning techniques.
 
 ### Dataset Description 
 The dataset contains credit card transactions made by European cardholders in September 2013. The dataset is highly unbalanced with only 0.172% (492 out of 284,807) of the transactions being fraudulent. The features in the dataset are mostly numerical and are results of a PCA transformation due to confidentiality requirements, with features V1 to V28 representing the principal components. The exceptions to this are 'Time' and 'Amount' which represent the seconds elapsed between each transaction and the first transaction in the dataset, and the transaction amount respectively. The response variable 'Class' is binary, with '1' indicating a fraudulent transaction and '0' otherwise.
@@ -20,7 +20,5 @@ In this project, we will execute the following tasks:
 2. Feature Engineering: We will process and engineer features to make them suitable for use in our machine learning models.
 
 3. Model Building and Prediction using ML Techniques: Traditional machine learning models will be trained and evaluated using the processed dataset.
-
-4. Model Building and Prediction using PyCaret (AutoML): We will use PyCaret, an AutoML tool, to automate the process of model selection, hyperparameter tuning and evaluation.
 
 Please check out the Jupyter notebook for a detailed walkthrough of the project.
