@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection using Machine Learning and AutoML Techniques
 
-![xenonstack-credit-card-fraud-detection.png]
+!xenonstack-credit-card-fraud-detection.png
 
 ### Project Overview
 
