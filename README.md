@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection using Machine Learning and AutoML Techniques
 
-https://www.bing.com/images/blob?bcid=qGtSm.gHIJkFMWJYRAmQltIqvEje.....1g
+![image](https://github.com/Christiansada/Credit-Card-Fraud-Detection/assets/95037926/a2e61d4d-78c9-4dea-87d6-b1ffbf974884)
 
 ### Project Overview
 
